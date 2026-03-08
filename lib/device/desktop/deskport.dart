@@ -24,10 +24,11 @@ class Deskport extends StatelessWidget {
                   mainAxisAlignment: MainAxisAlignment.center,
                   children: [
                     mainPageBar(context),
-                    Padding(
-                      padding: const EdgeInsets.only(right: 50, left: 50),
-                      child: aboutPageBar(context),
+                    SizedBox(
+                      width: 40,
                     ),
+                    aboutPageBar(context),
+                    SizedBox(width: 40,),
                     contsctsPageBar(context),
                     
                   ],
