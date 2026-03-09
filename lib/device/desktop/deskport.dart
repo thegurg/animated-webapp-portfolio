@@ -25,10 +25,10 @@ class Deskport extends StatelessWidget {
                   children: [
                     mainPageBar(context),
                     SizedBox(
-                      width: 40,
+                      width: 50,
                     ),
                     aboutPageBar(context),
-                    SizedBox(width: 40,),
+                    SizedBox(width: 50,),
                     contsctsPageBar(context),
                     
                   ],
