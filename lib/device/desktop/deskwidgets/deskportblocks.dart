@@ -49,7 +49,7 @@ Container olimpia() {
           child: Text('Hobbies', style: TextStyle(color: yak1, fontSize: 50)),
         ),
         Text(
-          ' > Lingustic',
+          ' > Linguistics',
           style: TextStyle(color: yak1, fontSize: 24),
         ),
         Text(
@@ -57,7 +57,7 @@ Container olimpia() {
           style: TextStyle(color: yak1, fontSize: 24),
         ),
         Text(
-          ' > Video Maker',
+          ' > Videographer',
           style: TextStyle(color: yak1, fontSize: 24),
         ),
       ],
@@ -83,7 +83,7 @@ Container education() {
           child: Text('Education', style: TextStyle(color: yak1, fontSize: 50)),
         ),
         Text(
-          ' > Temurbeklar Academic Liseum 2023-2025',
+          ' > Temurbeklar Academic Lyceum 2023-2025',
           style: TextStyle(color: yak1, fontSize: 24),
         ),
         Text(' > UWED 2025-2029', style: TextStyle(color: yak1, fontSize: 24)),

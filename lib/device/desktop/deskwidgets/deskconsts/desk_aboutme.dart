@@ -4,8 +4,8 @@ import 'package:safarali_portfolio/color.dart';
 var textaboutme = Padding(
   padding: const EdgeInsets.only(top: 30, right: 50, left: 50,bottom: 30),
   child: Text(
-    '    There are various customizable "About Me" templates available that can help you introduce yourself effectively. You can find templates for personal websites, presentations, and posters that allow you to showcase your personality, achievements, and interests in a visually appealing way.There are various customizable "About Me" templates available that can help you introduce yourself effectively. You can find templates for personal websites, presentations, and posters that allow you to showcase your personality, achievements, and interests in a visually appealing way.',
-    style: TextStyle(fontSize: 40, color: yak1),
+    '    I am a student at the beginning of my professional journey, aspiring to build a career in diplomacy and international relations. During my studies, I focus on developing a strong understanding of global issues, international cooperation, and the principles of diplomacy. I am interested in learning about different cultures, political systems, and global challenges that shape relations between countries. Through my studies and personal projects, I aim to strengthen my analytical thinking, communication skills, and ability to understand complex international processes.',
+    style: TextStyle(fontSize: 36, color: yak1),
   ),
 );
 
