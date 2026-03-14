@@ -1,4 +1,4 @@
-# safarali_portfolio
+# animated_portfolio
 
 A new Flutter project.
 
