@@ -3,6 +3,7 @@ import 'package:safarali_portfolio/device/desktop/deskabout.dart';
 import 'package:safarali_portfolio/device/desktop/deskconc.dart';
 import 'package:safarali_portfolio/device/desktop/deskmain.dart';
 import 'package:safarali_portfolio/device/desktop/deskport.dart';
+import 'package:safarali_portfolio/whole.dart';
 
 void main() {
   runApp(const MyApp());
@@ -18,12 +19,18 @@ class MyApp extends StatelessWidget {
         fontFamily: 'Black'
       ),
       debugShowCheckedModeBanner: false,
-      home: Deskmain(),
+      home: Whole(),
       routes: {
+        //desk routes
         '/deskmain' : (context) => Deskmain(),
         '/deskport' : (context) => Deskport(),
         '/deskconc' : (context) => Deskconc(),
         '/deskabout' : (context) => Deskabout(),
+
+        //tablet routes
+
+        //mobile routes
+
       },
     );
   }
